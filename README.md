@@ -1,4 +1,4 @@
-### It's me, Leo!
+### It's me, Leo! Just another guy trying to code the world!
 
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning C# and React
