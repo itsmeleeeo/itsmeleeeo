@@ -1,7 +1,7 @@
 ### It's me, Leo! Just another guy trying to code the world!
 
-- 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning C# and React
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently coding the world in C# and React
 - 💬 Ask me about games.
 - 📫 How to reach me at fsleonardo91@gmail.com
 
